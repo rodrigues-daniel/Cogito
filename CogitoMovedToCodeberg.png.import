@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b45endup5sujv"
-path="res://.godot/imported/CameraDamageVignette.png-ad310887d5e882220444f62262b545b1.ctex"
+uid="uid://dikap1rnfltd1"
+path="res://.godot/imported/CogitoMovedToCodeberg.png-38f39a11a6a096d7801f479b20e71846.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/cogito/Assets/Textures/CameraDamageVignette.png"
-dest_files=["res://.godot/imported/CameraDamageVignette.png-ad310887d5e882220444f62262b545b1.ctex"]
+source_file="res://CogitoMovedToCodeberg.png"
+dest_files=["res://.godot/imported/CogitoMovedToCodeberg.png-38f39a11a6a096d7801f479b20e71846.ctex"]
 
 [params]
 
